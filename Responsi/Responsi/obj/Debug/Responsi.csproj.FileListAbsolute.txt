@@ -1,0 +1,7 @@
+D:\Coding\tabung\Responsi\Responsi\Responsi\obj\Debug\Responsi.csprojAssemblyReference.cache
+D:\Coding\tabung\Responsi\Responsi\Responsi\obj\Debug\Responsi.csproj.CoreCompileInputs.cache
+D:\Coding\tabung\Responsi\Responsi\Responsi\bin\Debug\Responsi.exe.config
+D:\Coding\tabung\Responsi\Responsi\Responsi\bin\Debug\Responsi.exe
+D:\Coding\tabung\Responsi\Responsi\Responsi\bin\Debug\Responsi.pdb
+D:\Coding\tabung\Responsi\Responsi\Responsi\obj\Debug\Responsi.exe
+D:\Coding\tabung\Responsi\Responsi\Responsi\obj\Debug\Responsi.pdb
